@@ -1,0 +1,28 @@
+{
+  "name": "@driver/shopify-app-integration-tool",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Automated Shopify app integration tool using API documentation and AI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "integrate": "node index.js",
+    "crawl": "node crawler.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.16.0",
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "js-yaml": "^4.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "volta": {
+    "node": "20.18.0"
+  },
+  "keywords": [],
+  "author": "Driver Digital",
+  "license": "MIT"
+}
