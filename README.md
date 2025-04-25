@@ -2,6 +2,10 @@
 
 A collection of open-source tools for Shopify developers to streamline common development tasks, migrations, and app integrations. This toolkit helps you work more efficiently with Shopify by automating complex processes and providing solutions to common challenges.
 
+## Work In Progress
+
+This repository is currently in development and the tools are somewhere in alpha-beta land. Please expect some issues. Fork to your heart's content, and contribute away!
+
 ![Shopify Toolkit Banner](driver-oregon-trail.jpg)
 
 ## 🧰 What's Included
