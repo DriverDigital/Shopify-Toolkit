@@ -1,3 +1,5 @@
+![Driver Digital Shopify Toolkit Banner](repository-open-graph-driver.jpg)
+
 # Shopify Toolkit
 
 A collection of open-source tools for Shopify developers to streamline common development tasks, migrations, and app integrations. This toolkit helps you work more efficiently with Shopify by automating complex processes and providing solutions to common challenges.
@@ -6,17 +8,21 @@ A collection of open-source tools for Shopify developers to streamline common de
 
 This repository is currently in development and the tools are somewhere in alpha-beta land. Please expect some issues. Fork to your heart's content, and contribute away!
 
-![Shopify Toolkit Banner](driver-oregon-trail.jpg)
-
-## 🧰 What's Included
-
-This repository contains three primary tools:
-
-1. **shopify-app-integration-tool**: Automate the integration of third-party apps into your Shopify themes using AI-powered code generation.
-2. **api-crawler**: Extract and consolidate API documentation from any website for easier reference and AI assistance.
-3. **prestashop-product-collection-relationship-scraper**: Facilitate migrations from PrestaShop to Shopify by mapping products to collections.
-
-All tools are free, open-source, and available for anyone to use, modify, and contribute to.
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
+  <div style="flex: 1; min-width: 300px;">
+    <h2>🧰 What's Included</h2>
+    <p>This repository contains three primary tools:</p>
+    <ol>
+      <li><strong>shopify-app-integration-tool</strong>: Automate the integration of third-party apps into your Shopify themes using AI-powered code generation.</li>
+      <li><strong>api-crawler</strong>: Extract and consolidate API documentation from any website for easier reference and AI assistance.</li>
+      <li><strong>prestashop-product-collection-relationship-scraper</strong>: Facilitate migrations from PrestaShop to Shopify by mapping products to collections.</li>
+    </ol>
+    <p>All tools are free, open-source, and available for anyone to use, modify, and contribute to.</p>
+  </div>
+  <div style="flex: 1; min-width: 300px; display: flex; justify-content: center; align-items: center;">
+    <img src="driver-oregon-trail.jpg" alt="Tools for the Shopify Trail" style="max-width: 100%; height: auto;">
+  </div>
+</div>
 
 ## 🚀 Quick Start
 
